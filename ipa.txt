@@ -16,3 +16,6 @@ https://enjoytb.b-cdn.net/ipa/tweakbox/electra1141.ipa
 unc0ver
 http://enjoy.tweakbox.pro/ipa/tweakbox/undecimus.ipa
 http://enjoytb.b-cdn.net/ipa/tweakbox/undecimus.ipa
+
+chimera
+https://enjoy.tweakbox.pro/ipa/tweakbox/chimera.ipa
