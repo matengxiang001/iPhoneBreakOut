@@ -1,0 +1,1118 @@
+{ "page": [
+  {
+    "id": 1,
+    "name": "防止系统升级",
+    "url": "/upgrade"
+  },
+  {
+    "id": 2,
+    "name": "一键安装软件源",
+    "url": "/sources"
+  },
+  {
+    "id": 3,
+    "name": "下载安装越狱软件",
+    "url": "/breakout"
+  },
+  {
+    "id": 4,
+    "name": "越狱相关链接",
+    "url": "/breakoutRelevant"
+  }
+],
+  "sources": [
+    {
+      "id": 1,
+      "name": "IOS云控 (Cydia添加)",
+      "url": "/sources/addSource"
+    },
+    {
+      "id": 2,
+      "name": "IOS云控 (Sileo添加)",
+      "url": "/sources/addSource"
+    },
+    {
+      "id": 3,
+      "name": "IOS云控 - 触动 (Cydia添加)",
+      "url": "/sources/addSource"
+    },
+    {
+      "id": 4,
+      "name": "IOS云控 - 触动 (Sileo添加)",
+      "url": "/sources/addSource"
+    }
+  ],
+  "relevantData": [
+    {
+      "id": 1,
+      "name": "Chimera越狱教程及签名续签",
+      "url": "https://bbs.feng.com/read-htm-tid-12285518.html"
+    },
+    {
+      "id": 2,
+      "name": "网页下载越狱工具(Jailbreaks)",
+      "url": "https://jailbreaks.fun"
+    },
+    {
+      "id": 3,
+      "name": "网页下载越狱工具(Ignition)",
+      "url": "https://app.ignition.fun/"
+    },
+    {
+      "id": 4,
+      "name": "网页下载越狱工具(Tweakbox)",
+      "url": "https://next.tweakboxapp.com/"
+    }
+  ],
+  "source1": {
+    "mt": {
+      "name": "IOS云控 (Cydia添加)",
+      "url": "cydia://url/https://cydia.saurik.com/api/share#?source=http://app-mtoton.test.upcdn.net/cydia",
+      "sourceUrl": "http://app-mtoton.test.upcdn.net/cydia",
+      "images": [
+        {
+          "id": 1,
+          "url": "http://app-cloudcontrol.test.upcdn.net/ios/img/source1/mt/add_yun_cydia_001.png"
+        },
+        {
+          "id": 2,
+          "url": "http://app-cloudcontrol.test.upcdn.net/ios/img/source1/mt/add_yun_cydia_002.png"
+        },
+        {
+          "id": 3,
+          "url": "http://app-cloudcontrol.test.upcdn.net/ios/img/source1/mt/add_yun_cydia_003.png"
+        },
+        {
+          "id": 4,
+          "url": "http://app-cloudcontrol.test.upcdn.net/ios/img/source1/mt/add_yun_cydia_004.png"
+        },
+        {
+          "id": 5,
+          "url": "http://app-cloudcontrol.test.upcdn.net/ios/img/source1/mt/add_yun_cydia_005.png"
+        },
+        {
+          "id": 6,
+          "url": "http://app-cloudcontrol.test.upcdn.net/ios/img/source1/mt/add_yun_cydia_006.png"
+        },
+        {
+          "id": 7,
+          "url": "http://app-cloudcontrol.test.upcdn.net/ios/img/source1/mt/add_yun_cydia_007.png"
+        },
+        {
+          "id": 8,
+          "url": "http://app-cloudcontrol.test.upcdn.net/ios/img/source1/mt/add_yun_cydia_008.png"
+        },
+        {
+          "id": 9,
+          "url": "http://app-cloudcontrol.test.upcdn.net/ios/img/source1/mt/add_yun_cydia_009.png"
+        },
+        {
+          "id": 10,
+          "url": "http://app-cloudcontrol.test.upcdn.net/ios/img/source1/mt/add_yun_cydia_010.png"
+        }
+      ]
+    },
+    "sb": {
+      "name": "IOS云控 (Cydia添加)",
+      "url": "cydia://url/https://cydia.saurik.com/api/share#?source=http://app-cloudcontrol.test.upcdn.net/cydia",
+      "sourceUrl": "http://app-cloudcontrol.test.upcdn.net/cydia",
+      "images": [
+        {
+          "id": 1,
+          "url": "http://app-cloudcontrol.test.upcdn.net/ios/img/source1/sb/add_yun_cydia_001.png"
+        },
+        {
+          "id": 2,
+          "url": "http://app-cloudcontrol.test.upcdn.net/ios/img/source1/sb/add_yun_cydia_002.png"
+        },
+        {
+          "id": 3,
+          "url": "http://app-cloudcontrol.test.upcdn.net/ios/img/source1/sb/add_yun_cydia_003.png"
+        },
+        {
+          "id": 4,
+          "url": "http://app-cloudcontrol.test.upcdn.net/ios/img/source1/sb/add_yun_cydia_004.png"
+        },
+        {
+          "id": 5,
+          "url": "http://app-cloudcontrol.test.upcdn.net/ios/img/source1/sb/add_yun_cydia_005.png"
+        },
+        {
+          "id": 6,
+          "url": "http://app-cloudcontrol.test.upcdn.net/ios/img/source1/sb/add_yun_cydia_006.png"
+        },
+        {
+          "id": 7,
+          "url": "http://app-cloudcontrol.test.upcdn.net/ios/img/source1/sb/add_yun_cydia_007.png"
+        },
+        {
+          "id": 8,
+          "url": "http://app-cloudcontrol.test.upcdn.net/ios/img/source1/sb/add_yun_cydia_008.png"
+        },
+        {
+          "id": 9,
+          "url": "http://app-cloudcontrol.test.upcdn.net/ios/img/source1/sb/add_yun_cydia_009.png"
+        },
+        {
+          "id": 10,
+          "url": "http://app-cloudcontrol.test.upcdn.net/ios/img/source1/sb/add_yun_cydia_010.png"
+        }
+      ]
+    },
+    "oy": {
+      "name": "IOS云控 (Cydia添加)",
+      "url": "cydia://url/https://cydia.saurik.com/api/share#?source=http://adv-upyun.test.upcdn.net/cydia",
+      "sourceUrl": "http://adv-upyun.test.upcdn.net/cydia",
+      "images": [
+        {
+          "id": 1,
+          "url": "http://app-cloudcontrol.test.upcdn.net/ios/img/source1/oy/add_yun_cydia_001.png"
+        },
+        {
+          "id": 2,
+          "url": "http://app-cloudcontrol.test.upcdn.net/ios/img/source1/oy/add_yun_cydia_002.png"
+        },
+        {
+          "id": 3,
+          "url": "http://app-cloudcontrol.test.upcdn.net/ios/img/source1/oy/add_yun_cydia_003.png"
+        },
+        {
+          "id": 4,
+          "url": "http://app-cloudcontrol.test.upcdn.net/ios/img/source1/oy/add_yun_cydia_004.png"
+        },
+        {
+          "id": 5,
+          "url": "http://app-cloudcontrol.test.upcdn.net/ios/img/source1/oy/add_yun_cydia_005.png"
+        },
+        {
+          "id": 6,
+          "url": "http://app-cloudcontrol.test.upcdn.net/ios/img/source1/oy/add_yun_cydia_006.png"
+        },
+        {
+          "id": 7,
+          "url": "http://app-cloudcontrol.test.upcdn.net/ios/img/source1/oy/add_yun_cydia_007.png"
+        },
+        {
+          "id": 8,
+          "url": "http://app-cloudcontrol.test.upcdn.net/ios/img/source1/oy/add_yun_cydia_008.png"
+        },
+        {
+          "id": 9,
+          "url": "http://app-cloudcontrol.test.upcdn.net/ios/img/source1/oy/add_yun_cydia_009.png"
+        },
+        {
+          "id": 10,
+          "url": "http://app-cloudcontrol.test.upcdn.net/ios/img/source1/oy/add_yun_cydia_010.png"
+        }
+      ]
+    },
+    "jfq": {
+      "name": "IOS云控 (Cydia添加)",
+      "url": "cydia://url/https://cydia.saurik.com/api/share#?source=http://app-jfq.test.upcdn.net/cydia",
+      "sourceUrl": "http://app-jfq.test.upcdn.net/cydia",
+      "images": [
+        {
+          "id": 1,
+          "url": "http://app-cloudcontrol.test.upcdn.net/ios/img/source1/jfq/add_yun_cydia_001.png"
+        },
+        {
+          "id": 2,
+          "url": "http://app-cloudcontrol.test.upcdn.net/ios/img/source1/jfq/add_yun_cydia_002.png"
+        },
+        {
+          "id": 3,
+          "url": "http://app-cloudcontrol.test.upcdn.net/ios/img/source1/jfq/add_yun_cydia_003.png"
+        },
+        {
+          "id": 4,
+          "url": "http://app-cloudcontrol.test.upcdn.net/ios/img/source1/jfq/add_yun_cydia_004.png"
+        },
+        {
+          "id": 5,
+          "url": "http://app-cloudcontrol.test.upcdn.net/ios/img/source1/jfq/add_yun_cydia_005.png"
+        },
+        {
+          "id": 6,
+          "url": "http://app-cloudcontrol.test.upcdn.net/ios/img/source1/jfq/add_yun_cydia_006.png"
+        },
+        {
+          "id": 7,
+          "url": "http://app-cloudcontrol.test.upcdn.net/ios/img/source1/jfq/add_yun_cydia_007.png"
+        },
+        {
+          "id": 8,
+          "url": "http://app-cloudcontrol.test.upcdn.net/ios/img/source1/jfq/add_yun_cydia_008.png"
+        },
+        {
+          "id": 9,
+          "url": "http://app-cloudcontrol.test.upcdn.net/ios/img/source1/jfq/add_yun_cydia_009.png"
+        },
+        {
+          "id": 10,
+          "url": "http://app-cloudcontrol.test.upcdn.net/ios/img/source1/jfq/add_yun_cydia_010.png"
+        }
+      ]
+    }
+  },
+  "source2": {
+    "mt": {
+      "name": "IOS云控 (Sileo添加)",
+      "url": "cydia://url/https://cydia.saurik.com/api/share#?source=http://app-mtoton.test.upcdn.net/cydia",
+      "sourceUrl": "http://app-mtoton.test.upcdn.net/cydia",
+      "images": [
+        {
+          "id": 1,
+          "url": "http://app-cloudcontrol.test.upcdn.net/ios/img/source2/mt/add_yun_sileo_001.png"
+        },
+        {
+          "id": 2,
+          "url": "http://app-cloudcontrol.test.upcdn.net/ios/img/source2/mt/add_yun_sileo_002.png"
+        },
+        {
+          "id": 3,
+          "url": "http://app-cloudcontrol.test.upcdn.net/ios/img/source2/mt/add_yun_sileo_003.png"
+        },
+        {
+          "id": 4,
+          "url": "http://app-cloudcontrol.test.upcdn.net/ios/img/source2/mt/add_yun_sileo_004.png"
+        },
+        {
+          "id": 5,
+          "url": "http://app-cloudcontrol.test.upcdn.net/ios/img/source2/mt/add_yun_sileo_005.png"
+        },
+        {
+          "id": 6,
+          "url": "http://app-cloudcontrol.test.upcdn.net/ios/img/source2/mt/add_yun_sileo_006.png"
+        },
+        {
+          "id": 7,
+          "url": "http://app-cloudcontrol.test.upcdn.net/ios/img/source2/mt/add_yun_sileo_007.png"
+        },
+        {
+          "id": 8,
+          "url": "http://app-cloudcontrol.test.upcdn.net/ios/img/source2/mt/add_yun_sileo_008.png"
+        },
+        {
+          "id": 9,
+          "url": "http://app-cloudcontrol.test.upcdn.net/ios/img/source2/mt/add_yun_sileo_009.png"
+        },
+        {
+          "id": 10,
+          "url": "http://app-cloudcontrol.test.upcdn.net/ios/img/source2/mt/add_yun_sileo_010.png"
+        },
+        {
+          "id": 11,
+          "url": "http://app-cloudcontrol.test.upcdn.net/ios/img/source2/mt/add_yun_sileo_011.png"
+        },
+        {
+          "id": 12,
+          "url": "http://app-cloudcontrol.test.upcdn.net/ios/img/source2/mt/add_yun_sileo_012.png"
+        },
+        {
+          "id": 13,
+          "url": "http://app-cloudcontrol.test.upcdn.net/ios/img/source2/mt/add_yun_sileo_013.png"
+        },
+        {
+          "id": 14,
+          "url": "http://app-cloudcontrol.test.upcdn.net/ios/img/source2/mt/add_yun_sileo_014.png"
+        },
+        {
+          "id": 15,
+          "url": "http://app-cloudcontrol.test.upcdn.net/ios/img/source2/mt/add_yun_sileo_015.png"
+        },
+        {
+          "id": 16,
+          "url": "http://app-cloudcontrol.test.upcdn.net/ios/img/source2/mt/add_yun_sileo_016.png"
+        },
+        {
+          "id": 17,
+          "url": "http://app-cloudcontrol.test.upcdn.net/ios/img/source2/mt/add_yun_sileo_017.png"
+        }
+      ]
+    },
+    "sb": {
+      "name": "IOS云控 (Sileo添加)",
+      "url": "cydia://url/https://cydia.saurik.com/api/share#?source=http://app-cloudcontrol.test.upcdn.net/cydia",
+      "sourceUrl": "http://app-cloudcontrol.test.upcdn.net/cydia",
+      "images": [
+        {
+          "id": 1,
+          "url": "http://app-cloudcontrol.test.upcdn.net/ios/img/source2/sb/add_yun_sileo_001.png"
+        },
+        {
+          "id": 2,
+          "url": "http://app-cloudcontrol.test.upcdn.net/ios/img/source2/sb/add_yun_sileo_002.png"
+        },
+        {
+          "id": 3,
+          "url": "http://app-cloudcontrol.test.upcdn.net/ios/img/source2/sb/add_yun_sileo_003.png"
+        },
+        {
+          "id": 4,
+          "url": "http://app-cloudcontrol.test.upcdn.net/ios/img/source2/sb/add_yun_sileo_004.png"
+        },
+        {
+          "id": 5,
+          "url": "http://app-cloudcontrol.test.upcdn.net/ios/img/source2/sb/add_yun_sileo_005.png"
+        },
+        {
+          "id": 6,
+          "url": "http://app-cloudcontrol.test.upcdn.net/ios/img/source2/sb/add_yun_sileo_006.png"
+        },
+        {
+          "id": 7,
+          "url": "http://app-cloudcontrol.test.upcdn.net/ios/img/source2/sb/add_yun_sileo_007.png"
+        },
+        {
+          "id": 8,
+          "url": "http://app-cloudcontrol.test.upcdn.net/ios/img/source2/sb/add_yun_sileo_008.png"
+        },
+        {
+          "id": 9,
+          "url": "http://app-cloudcontrol.test.upcdn.net/ios/img/source2/sb/add_yun_sileo_009.png"
+        },
+        {
+          "id": 10,
+          "url": "http://app-cloudcontrol.test.upcdn.net/ios/img/source2/sb/add_yun_sileo_010.png"
+        },
+        {
+          "id": 11,
+          "url": "http://app-cloudcontrol.test.upcdn.net/ios/img/source2/sb/add_yun_sileo_011.png"
+        },
+        {
+          "id": 12,
+          "url": "http://app-cloudcontrol.test.upcdn.net/ios/img/source2/sb/add_yun_sileo_012.png"
+        },
+        {
+          "id": 13,
+          "url": "http://app-cloudcontrol.test.upcdn.net/ios/img/source2/sb/add_yun_sileo_013.png"
+        },
+        {
+          "id": 14,
+          "url": "http://app-cloudcontrol.test.upcdn.net/ios/img/source2/sb/add_yun_sileo_014.png"
+        },
+        {
+          "id": 15,
+          "url": "http://app-cloudcontrol.test.upcdn.net/ios/img/source2/sb/add_yun_sileo_015.png"
+        },
+        {
+          "id": 16,
+          "url": "http://app-cloudcontrol.test.upcdn.net/ios/img/source2/sb/add_yun_sileo_016.png"
+        },
+        {
+          "id": 17,
+          "url": "http://app-cloudcontrol.test.upcdn.net/ios/img/source2/sb/add_yun_sileo_017.png"
+        }
+      ]
+    },
+    "oy": {
+      "name": "IOS云控 (Sileo添加)",
+      "url": "cydia://url/https://cydia.saurik.com/api/share#?source=http://adv-upyun.test.upcdn.net/cydia",
+      "sourceUrl": "http://adv-upyun.test.upcdn.net/cydia",
+      "images": [
+        {
+          "id": 1,
+          "url": "http://app-cloudcontrol.test.upcdn.net/ios/img/source2/oy/add_yun_sileo_001.png"
+        },
+        {
+          "id": 2,
+          "url": "http://app-cloudcontrol.test.upcdn.net/ios/img/source2/oy/add_yun_sileo_002.png"
+        },
+        {
+          "id": 3,
+          "url": "http://app-cloudcontrol.test.upcdn.net/ios/img/source2/oy/add_yun_sileo_003.png"
+        },
+        {
+          "id": 4,
+          "url": "http://app-cloudcontrol.test.upcdn.net/ios/img/source2/oy/add_yun_sileo_004.png"
+        },
+        {
+          "id": 5,
+          "url": "http://app-cloudcontrol.test.upcdn.net/ios/img/source2/oy/add_yun_sileo_005.png"
+        },
+        {
+          "id": 6,
+          "url": "http://app-cloudcontrol.test.upcdn.net/ios/img/source2/oy/add_yun_sileo_006.png"
+        },
+        {
+          "id": 7,
+          "url": "http://app-cloudcontrol.test.upcdn.net/ios/img/source2/oy/add_yun_sileo_007.png"
+        },
+        {
+          "id": 8,
+          "url": "http://app-cloudcontrol.test.upcdn.net/ios/img/source2/oy/add_yun_sileo_008.png"
+        },
+        {
+          "id": 9,
+          "url": "http://app-cloudcontrol.test.upcdn.net/ios/img/source2/oy/add_yun_sileo_009.png"
+        },
+        {
+          "id": 10,
+          "url": "http://app-cloudcontrol.test.upcdn.net/ios/img/source2/oy/add_yun_sileo_010.png"
+        },
+        {
+          "id": 11,
+          "url": "http://app-cloudcontrol.test.upcdn.net/ios/img/source2/oy/add_yun_sileo_011.png"
+        },
+        {
+          "id": 12,
+          "url": "http://app-cloudcontrol.test.upcdn.net/ios/img/source2/oy/add_yun_sileo_012.png"
+        },
+        {
+          "id": 13,
+          "url": "http://app-cloudcontrol.test.upcdn.net/ios/img/source2/oy/add_yun_sileo_013.png"
+        },
+        {
+          "id": 14,
+          "url": "http://app-cloudcontrol.test.upcdn.net/ios/img/source2/oy/add_yun_sileo_014.png"
+        },
+        {
+          "id": 15,
+          "url": "http://app-cloudcontrol.test.upcdn.net/ios/img/source2/oy/add_yun_sileo_015.png"
+        },
+        {
+          "id": 16,
+          "url": "http://app-cloudcontrol.test.upcdn.net/ios/img/source2/oy/add_yun_sileo_016.png"
+        },
+        {
+          "id": 17,
+          "url": "http://app-cloudcontrol.test.upcdn.net/ios/img/source2/oy/add_yun_sileo_017.png"
+        }
+      ]
+    },
+    "jfq": {
+      "name": "IOS云控 (Sileo添加)",
+      "url": "cydia://url/https://cydia.saurik.com/api/share#?source=http://app-jfq.test.upcdn.net/cydia",
+      "sourceUrl": "http://app-jfq.test.upcdn.net/cydia",
+      "images": [
+        {
+          "id": 1,
+          "url": "http://app-cloudcontrol.test.upcdn.net/ios/img/source2/jfq/add_yun_sileo_001.png"
+        },
+        {
+          "id": 2,
+          "url": "http://app-cloudcontrol.test.upcdn.net/ios/img/source2/jfq/add_yun_sileo_002.png"
+        },
+        {
+          "id": 3,
+          "url": "http://app-cloudcontrol.test.upcdn.net/ios/img/source2/jfq/add_yun_sileo_003.png"
+        },
+        {
+          "id": 4,
+          "url": "http://app-cloudcontrol.test.upcdn.net/ios/img/source2/jfq/add_yun_sileo_004.png"
+        },
+        {
+          "id": 5,
+          "url": "http://app-cloudcontrol.test.upcdn.net/ios/img/source2/jfq/add_yun_sileo_005.png"
+        },
+        {
+          "id": 6,
+          "url": "http://app-cloudcontrol.test.upcdn.net/ios/img/source2/jfq/add_yun_sileo_006.png"
+        },
+        {
+          "id": 7,
+          "url": "http://app-cloudcontrol.test.upcdn.net/ios/img/source2/jfq/add_yun_sileo_007.png"
+        },
+        {
+          "id": 8,
+          "url": "http://app-cloudcontrol.test.upcdn.net/ios/img/source2/jfq/add_yun_sileo_008.png"
+        },
+        {
+          "id": 9,
+          "url": "http://app-cloudcontrol.test.upcdn.net/ios/img/source2/jfq/add_yun_sileo_009.png"
+        },
+        {
+          "id": 10,
+          "url": "http://app-cloudcontrol.test.upcdn.net/ios/img/source2/jfq/add_yun_sileo_010.png"
+        },
+        {
+          "id": 11,
+          "url": "http://app-cloudcontrol.test.upcdn.net/ios/img/source2/jfq/add_yun_sileo_011.png"
+        },
+        {
+          "id": 12,
+          "url": "http://app-cloudcontrol.test.upcdn.net/ios/img/source2/jfq/add_yun_sileo_012.png"
+        },
+        {
+          "id": 13,
+          "url": "http://app-cloudcontrol.test.upcdn.net/ios/img/source2/jfq/add_yun_sileo_013.png"
+        },
+        {
+          "id": 14,
+          "url": "http://app-cloudcontrol.test.upcdn.net/ios/img/source2/jfq/add_yun_sileo_014.png"
+        },
+        {
+          "id": 15,
+          "url": "http://app-cloudcontrol.test.upcdn.net/ios/img/source2/jfq/add_yun_sileo_015.png"
+        },
+        {
+          "id": 16,
+          "url": "http://app-cloudcontrol.test.upcdn.net/ios/img/source2/jfq/add_yun_sileo_016.png"
+        },
+        {
+          "id": 17,
+          "url": "http://app-cloudcontrol.test.upcdn.net/ios/img/source2/jfq/add_yun_sileo_017.png"
+        }
+      ]
+    }
+  },
+  "source3": {
+    "mt": {
+      "name": "IOS云控 - 触动 (Cydia添加)",
+      "url": "cydia://url/https://cydia.saurik.com/api/share#?source=http://app-mtoton.test.upcdn.net/touchsprite",
+      "sourceUrl": "http://app-mtoton.test.upcdn.net/touchsprite",
+      "images": [
+        {
+          "id": 1,
+          "url": "http://app-cloudcontrol.test.upcdn.net/ios/img/source3/mt/add_touch_cydia_001.png"
+        },
+        {
+          "id": 2,
+          "url": "http://app-cloudcontrol.test.upcdn.net/ios/img/source3/mt/add_touch_cydia_002.png"
+        },
+        {
+          "id": 3,
+          "url": "http://app-cloudcontrol.test.upcdn.net/ios/img/source3/mt/add_touch_cydia_003.png"
+        },
+        {
+          "id": 4,
+          "url": "http://app-cloudcontrol.test.upcdn.net/ios/img/source3/mt/add_touch_cydia_004.png"
+        },
+        {
+          "id": 5,
+          "url": "http://app-cloudcontrol.test.upcdn.net/ios/img/source3/mt/add_touch_cydia_005.png"
+        },
+        {
+          "id": 6,
+          "url": "http://app-cloudcontrol.test.upcdn.net/ios/img/source3/mt/add_touch_cydia_006.png"
+        },
+        {
+          "id": 7,
+          "url": "http://app-cloudcontrol.test.upcdn.net/ios/img/source3/mt/add_touch_cydia_007.png"
+        },
+        {
+          "id": 8,
+          "url": "http://app-cloudcontrol.test.upcdn.net/ios/img/source3/mt/add_touch_cydia_008.png"
+        },
+        {
+          "id": 9,
+          "url": "http://app-cloudcontrol.test.upcdn.net/ios/img/source3/mt/add_touch_cydia_009.png"
+        },
+        {
+          "id": 10,
+          "url": "http://app-cloudcontrol.test.upcdn.net/ios/img/source3/mt/add_touch_cydia_010.png"
+        },
+        {
+          "id": 11,
+          "url": "http://app-cloudcontrol.test.upcdn.net/ios/img/source3/mt/add_touch_cydia_011.png"
+        }
+      ]
+    },
+    "sb": {
+      "name": "IOS云控 - 触动 (Cydia添加)",
+      "url": "cydia://url/https://cydia.saurik.com/api/share#?source=http://app-cloudcontrol.test.upcdn.net/touchsprite",
+      "sourceUrl": "http://app-cloudcontrol.test.upcdn.net/touchsprite",
+      "images": [
+        {
+          "id": 1,
+          "url": "http://app-cloudcontrol.test.upcdn.net/ios/img/source3/sb/add_touch_cydia_001.png"
+        },
+        {
+          "id": 2,
+          "url": "http://app-cloudcontrol.test.upcdn.net/ios/img/source3/sb/add_touch_cydia_002.png"
+        },
+        {
+          "id": 3,
+          "url": "http://app-cloudcontrol.test.upcdn.net/ios/img/source3/sb/add_touch_cydia_003.png"
+        },
+        {
+          "id": 4,
+          "url": "http://app-cloudcontrol.test.upcdn.net/ios/img/source3/sb/add_touch_cydia_004.png"
+        },
+        {
+          "id": 5,
+          "url": "http://app-cloudcontrol.test.upcdn.net/ios/img/source3/sb/add_touch_cydia_005.png"
+        },
+        {
+          "id": 6,
+          "url": "http://app-cloudcontrol.test.upcdn.net/ios/img/source3/sb/add_touch_cydia_006.png"
+        },
+        {
+          "id": 7,
+          "url": "http://app-cloudcontrol.test.upcdn.net/ios/img/source3/sb/add_touch_cydia_007.png"
+        },
+        {
+          "id": 8,
+          "url": "http://app-cloudcontrol.test.upcdn.net/ios/img/source3/sb/add_touch_cydia_008.png"
+        },
+        {
+          "id": 9,
+          "url": "http://app-cloudcontrol.test.upcdn.net/ios/img/source3/sb/add_touch_cydia_009.png"
+        },
+        {
+          "id": 10,
+          "url": "http://app-cloudcontrol.test.upcdn.net/ios/img/source3/sb/add_touch_cydia_010.png"
+        },
+        {
+          "id": 11,
+          "url": "http://app-cloudcontrol.test.upcdn.net/ios/img/source3/sb/add_touch_cydia_011.png"
+        }
+      ]
+    },
+    "oy": {
+      "name": "IOS云控 - 触动 (Cydia添加)",
+      "url": "cydia://url/https://cydia.saurik.com/api/share#?source=http://adv-upyun.test.upcdn.net/touchsprite",
+      "sourceUrl": "http://adv-upyun.test.upcdn.net/touchsprite",
+      "images": [
+        {
+          "id": 1,
+          "url": "http://app-cloudcontrol.test.upcdn.net/ios/img/source3/oy/add_touch_cydia_001.png"
+        },
+        {
+          "id": 2,
+          "url": "http://app-cloudcontrol.test.upcdn.net/ios/img/source3/oy/add_touch_cydia_002.png"
+        },
+        {
+          "id": 3,
+          "url": "http://app-cloudcontrol.test.upcdn.net/ios/img/source3/oy/add_touch_cydia_003.png"
+        },
+        {
+          "id": 4,
+          "url": "http://app-cloudcontrol.test.upcdn.net/ios/img/source3/oy/add_touch_cydia_004.png"
+        },
+        {
+          "id": 5,
+          "url": "http://app-cloudcontrol.test.upcdn.net/ios/img/source3/oy/add_touch_cydia_005.png"
+        },
+        {
+          "id": 6,
+          "url": "http://app-cloudcontrol.test.upcdn.net/ios/img/source3/oy/add_touch_cydia_006.png"
+        },
+        {
+          "id": 7,
+          "url": "http://app-cloudcontrol.test.upcdn.net/ios/img/source3/oy/add_touch_cydia_007.png"
+        },
+        {
+          "id": 8,
+          "url": "http://app-cloudcontrol.test.upcdn.net/ios/img/source3/oy/add_touch_cydia_008.png"
+        },
+        {
+          "id": 9,
+          "url": "http://app-cloudcontrol.test.upcdn.net/ios/img/source3/oy/add_touch_cydia_009.png"
+        },
+        {
+          "id": 10,
+          "url": "http://app-cloudcontrol.test.upcdn.net/ios/img/source3/oy/add_touch_cydia_010.png"
+        },
+        {
+          "id": 11,
+          "url": "http://app-cloudcontrol.test.upcdn.net/ios/img/source3/oy/add_touch_cydia_011.png"
+        }
+      ]
+    },
+    "jfq": {
+      "name": "IOS云控 - 触动 (Cydia添加)",
+      "url": "cydia://url/https://cydia.saurik.com/api/share#?source=http://app-jfq.test.upcdn.net/touchsprite",
+      "sourceUrl": "http://app-jfq.test.upcdn.net/touchsprite",
+      "images": [
+        {
+          "id": 1,
+          "url": "http://app-cloudcontrol.test.upcdn.net/ios/img/source3/jfq/add_touch_cydia_001.png"
+        },
+        {
+          "id": 2,
+          "url": "http://app-cloudcontrol.test.upcdn.net/ios/img/source3/jfq/add_touch_cydia_002.png"
+        },
+        {
+          "id": 3,
+          "url": "http://app-cloudcontrol.test.upcdn.net/ios/img/source3/jfq/add_touch_cydia_003.png"
+        },
+        {
+          "id": 4,
+          "url": "http://app-cloudcontrol.test.upcdn.net/ios/img/source3/jfq/add_touch_cydia_004.png"
+        },
+        {
+          "id": 5,
+          "url": "http://app-cloudcontrol.test.upcdn.net/ios/img/source3/jfq/add_touch_cydia_005.png"
+        },
+        {
+          "id": 6,
+          "url": "http://app-cloudcontrol.test.upcdn.net/ios/img/source3/jfq/add_touch_cydia_006.png"
+        },
+        {
+          "id": 7,
+          "url": "http://app-cloudcontrol.test.upcdn.net/ios/img/source3/jfq/add_touch_cydia_007.png"
+        },
+        {
+          "id": 8,
+          "url": "http://app-cloudcontrol.test.upcdn.net/ios/img/source3/jfq/add_touch_cydia_008.png"
+        },
+        {
+          "id": 9,
+          "url": "http://app-cloudcontrol.test.upcdn.net/ios/img/source3/jfq/add_touch_cydia_009.png"
+        },
+        {
+          "id": 10,
+          "url": "http://app-cloudcontrol.test.upcdn.net/ios/img/source3/jfq/add_touch_cydia_010.png"
+        },
+        {
+          "id": 11,
+          "url": "http://app-cloudcontrol.test.upcdn.net/ios/img/source3/jfq/add_touch_cydia_011.png"
+        }
+      ]
+    }
+  },
+  "source4": {
+    "mt": {
+      "name": "IOS云控 - 触动 (Sileo添加)",
+      "url": "cydia://url/https://cydia.saurik.com/api/share#?source=http://app-mtoton.test.upcdn.net/touchsprite",
+      "sourceUrl": "http://app-mtoton.test.upcdn.net/touchsprite",
+      "images": [
+        {
+          "id": 1,
+          "url": "http://app-cloudcontrol.test.upcdn.net/ios/img/source4/mt/add_touch_sileo_001.png"
+        },
+        {
+          "id": 2,
+          "url": "http://app-cloudcontrol.test.upcdn.net/ios/img/source4/mt/add_touch_sileo_002.png"
+        },
+        {
+          "id": 3,
+          "url": "http://app-cloudcontrol.test.upcdn.net/ios/img/source4/mt/add_touch_sileo_003.png"
+        },
+        {
+          "id": 4,
+          "url": "http://app-cloudcontrol.test.upcdn.net/ios/img/source4/mt/add_touch_sileo_004.png"
+        },
+        {
+          "id": 5,
+          "url": "http://app-cloudcontrol.test.upcdn.net/ios/img/source4/mt/add_touch_sileo_005.png"
+        },
+        {
+          "id": 6,
+          "url": "http://app-cloudcontrol.test.upcdn.net/ios/img/source4/mt/add_touch_sileo_006.png"
+        },
+        {
+          "id": 7,
+          "url": "http://app-cloudcontrol.test.upcdn.net/ios/img/source4/mt/add_touch_sileo_007.png"
+        },
+        {
+          "id": 8,
+          "url": "http://app-cloudcontrol.test.upcdn.net/ios/img/source4/mt/add_touch_sileo_008.png"
+        },
+        {
+          "id": 9,
+          "url": "http://app-cloudcontrol.test.upcdn.net/ios/img/source4/mt/add_touch_sileo_009.png"
+        },
+        {
+          "id": 10,
+          "url": "http://app-cloudcontrol.test.upcdn.net/ios/img/source4/mt/add_touch_sileo_010.png"
+        },
+        {
+          "id": 11,
+          "url": "http://app-cloudcontrol.test.upcdn.net/ios/img/source4/mt/add_touch_sileo_011.png"
+        },
+        {
+          "id": 12,
+          "url": "http://app-cloudcontrol.test.upcdn.net/ios/img/source4/mt/add_touch_sileo_012.png"
+        },
+        {
+          "id": 13,
+          "url": "http://app-cloudcontrol.test.upcdn.net/ios/img/source4/mt/add_touch_sileo_013.png"
+        }
+      ]
+    },
+    "sb": {
+      "name": "IOS云控 - 触动 (Sileo添加)",
+      "url": "cydia://url/https://cydia.saurik.com/api/share#?source=http://app-cloudcontrol.test.upcdn.net/touchsprite",
+      "sourceUrl": "http://app-cloudcontrol.test.upcdn.net/touchsprite",
+      "images": [
+        {
+          "id": 1,
+          "url": "http://app-cloudcontrol.test.upcdn.net/ios/img/source4/sb/add_touch_sileo_001.png"
+        },
+        {
+          "id": 2,
+          "url": "http://app-cloudcontrol.test.upcdn.net/ios/img/source4/sb/add_touch_sileo_002.png"
+        },
+        {
+          "id": 3,
+          "url": "http://app-cloudcontrol.test.upcdn.net/ios/img/source4/sb/add_touch_sileo_003.png"
+        },
+        {
+          "id": 4,
+          "url": "http://app-cloudcontrol.test.upcdn.net/ios/img/source4/sb/add_touch_sileo_004.png"
+        },
+        {
+          "id": 5,
+          "url": "http://app-cloudcontrol.test.upcdn.net/ios/img/source4/sb/add_touch_sileo_005.png"
+        },
+        {
+          "id": 6,
+          "url": "http://app-cloudcontrol.test.upcdn.net/ios/img/source4/sb/add_touch_sileo_006.png"
+        },
+        {
+          "id": 7,
+          "url": "http://app-cloudcontrol.test.upcdn.net/ios/img/source4/sb/add_touch_sileo_007.png"
+        },
+        {
+          "id": 8,
+          "url": "http://app-cloudcontrol.test.upcdn.net/ios/img/source4/sb/add_touch_sileo_008.png"
+        },
+        {
+          "id": 9,
+          "url": "http://app-cloudcontrol.test.upcdn.net/ios/img/source4/sb/add_touch_sileo_009.png"
+        },
+        {
+          "id": 10,
+          "url": "http://app-cloudcontrol.test.upcdn.net/ios/img/source4/sb/add_touch_sileo_010.png"
+        },
+        {
+          "id": 11,
+          "url": "http://app-cloudcontrol.test.upcdn.net/ios/img/source4/sb/add_touch_sileo_011.png"
+        },
+        {
+          "id": 12,
+          "url": "http://app-cloudcontrol.test.upcdn.net/ios/img/source4/sb/add_touch_sileo_012.png"
+        },
+        {
+          "id": 13,
+          "url": "http://app-cloudcontrol.test.upcdn.net/ios/img/source4/sb/add_touch_sileo_013.png"
+        }
+      ]
+    },
+    "oy": {
+      "name": "IOS云控 - 触动 (Sileo添加)",
+      "url": "cydia://url/https://cydia.saurik.com/api/share#?source=http://adv-upyun.test.upcdn.net/touchsprite",
+      "sourceUrl": "http://adv-upyun.test.upcdn.net/touchsprite",
+      "images": [
+        {
+          "id": 1,
+          "url": "http://app-cloudcontrol.test.upcdn.net/ios/img/source4/oy/add_touch_sileo_001.png"
+        },
+        {
+          "id": 2,
+          "url": "http://app-cloudcontrol.test.upcdn.net/ios/img/source4/oy/add_touch_sileo_002.png"
+        },
+        {
+          "id": 3,
+          "url": "http://app-cloudcontrol.test.upcdn.net/ios/img/source4/oy/add_touch_sileo_003.png"
+        },
+        {
+          "id": 4,
+          "url": "http://app-cloudcontrol.test.upcdn.net/ios/img/source4/oy/add_touch_sileo_004.png"
+        },
+        {
+          "id": 5,
+          "url": "http://app-cloudcontrol.test.upcdn.net/ios/img/source4/oy/add_touch_sileo_005.png"
+        },
+        {
+          "id": 6,
+          "url": "http://app-cloudcontrol.test.upcdn.net/ios/img/source4/oy/add_touch_sileo_006.png"
+        },
+        {
+          "id": 7,
+          "url": "http://app-cloudcontrol.test.upcdn.net/ios/img/source4/oy/add_touch_sileo_007.png"
+        },
+        {
+          "id": 8,
+          "url": "http://app-cloudcontrol.test.upcdn.net/ios/img/source4/oy/add_touch_sileo_008.png"
+        },
+        {
+          "id": 9,
+          "url": "http://app-cloudcontrol.test.upcdn.net/ios/img/source4/oy/add_touch_sileo_009.png"
+        },
+        {
+          "id": 10,
+          "url": "http://app-cloudcontrol.test.upcdn.net/ios/img/source4/oy/add_touch_sileo_010.png"
+        },
+        {
+          "id": 11,
+          "url": "http://app-cloudcontrol.test.upcdn.net/ios/img/source4/oy/add_touch_sileo_011.png"
+        },
+        {
+          "id": 12,
+          "url": "http://app-cloudcontrol.test.upcdn.net/ios/img/source4/oy/add_touch_sileo_012.png"
+        },
+        {
+          "id": 13,
+          "url": "http://app-cloudcontrol.test.upcdn.net/ios/img/source4/oy/add_touch_sileo_013.png"
+        }
+      ]
+    },
+    "jfq": {
+      "name": "IOS云控 - 触动 (Sileo添加)",
+      "url": "cydia://url/https://cydia.saurik.com/api/share#?source=http://app-jfq.test.upcdn.net/touchsprite",
+      "sourceUrl": "http://app-jfq.test.upcdn.net/touchsprite",
+      "images": [
+        {
+          "id": 1,
+          "url": "http://app-cloudcontrol.test.upcdn.net/ios/img/source4/jfq/add_touch_sileo_001.png"
+        },
+        {
+          "id": 2,
+          "url": "http://app-cloudcontrol.test.upcdn.net/ios/img/source4/jfq/add_touch_sileo_002.png"
+        },
+        {
+          "id": 3,
+          "url": "http://app-cloudcontrol.test.upcdn.net/ios/img/source4/jfq/add_touch_sileo_003.png"
+        },
+        {
+          "id": 4,
+          "url": "http://app-cloudcontrol.test.upcdn.net/ios/img/source4/jfq/add_touch_sileo_004.png"
+        },
+        {
+          "id": 5,
+          "url": "http://app-cloudcontrol.test.upcdn.net/ios/img/source4/jfq/add_touch_sileo_005.png"
+        },
+        {
+          "id": 6,
+          "url": "http://app-cloudcontrol.test.upcdn.net/ios/img/source4/jfq/add_touch_sileo_006.png"
+        },
+        {
+          "id": 7,
+          "url": "http://app-cloudcontrol.test.upcdn.net/ios/img/source4/jfq/add_touch_sileo_007.png"
+        },
+        {
+          "id": 8,
+          "url": "http://app-cloudcontrol.test.upcdn.net/ios/img/source4/jfq/add_touch_sileo_008.png"
+        },
+        {
+          "id": 9,
+          "url": "http://app-cloudcontrol.test.upcdn.net/ios/img/source4/jfq/add_touch_sileo_009.png"
+        },
+        {
+          "id": 10,
+          "url": "http://app-cloudcontrol.test.upcdn.net/ios/img/source4/jfq/add_touch_sileo_010.png"
+        },
+        {
+          "id": 11,
+          "url": "http://app-cloudcontrol.test.upcdn.net/ios/img/source4/jfq/add_touch_sileo_011.png"
+        },
+        {
+          "id": 12,
+          "url": "http://app-cloudcontrol.test.upcdn.net/ios/img/source4/jfq/add_touch_sileo_012.png"
+        },
+        {
+          "id": 13,
+          "url": "http://app-cloudcontrol.test.upcdn.net/ios/img/source4/jfq/add_touch_sileo_013.png"
+        }
+      ]
+    }
+
+  },
+  "ios": ["IOS10", "IOS11", "IOS12"],
+  "breakout": [
+    {
+      "id": 1,
+      "name": "IOS-9-PanGu",
+      "url": "/breakout/pangu"
+    },
+    {
+      "id": 2,
+      "name": "IOS-10-YaLu",
+      "url": "/breakout/yalu"
+    },
+    {
+      "id": 3,
+      "name": "IOS-11-Electra",
+      "url": "/breakout/electra"
+    },
+    {
+      "id": 4,
+      "name": "IOS-12-Unc0ver",
+      "url": "/breakout/unc0ver"
+    },
+    {
+      "id": 5,
+      "name": "IOS-12-Chimera",
+      "url": "/breakout/chimera"
+    }
+  ],
+  "pangu": [
+    {
+      "id": 1,
+      "url": "http://app-cloudcontrol.test.upcdn.net/ios/img/breakout_pangu_001.png"
+    },
+    {
+      "id": 2,
+      "url": "http://app-cloudcontrol.test.upcdn.net/ios/img/breakout_pangu_002.png"
+    },
+    {
+      "id": 3,
+      "url": "http://app-cloudcontrol.test.upcdn.net/ios/img/breakout_pangu_003.png"
+    }
+  ],
+  "yalu": [
+    {
+      "id": 1,
+      "url": "http://app-cloudcontrol.test.upcdn.net/ios/img/breakout_yalu_001.png"
+    },
+    {
+      "id": 2,
+      "url": "http://app-cloudcontrol.test.upcdn.net/ios/img/breakout_yalu_002.png"
+    }
+  ],
+  "electra": [
+    {
+      "id": 1,
+      "url": "http://app-cloudcontrol.test.upcdn.net/ios/img/breakout_electra_001.png"
+    },
+    {
+      "id": 2,
+      "url": "http://app-cloudcontrol.test.upcdn.net/ios/img/breakout_electra_002.png"
+    }
+  ],
+  "unc0ver": [
+    {
+      "id": 1,
+      "url": "http://app-cloudcontrol.test.upcdn.net/ios/img/breakout_unc0ver_clear_001.png"
+    },
+    {
+      "id": 2,
+      "url": "http://app-cloudcontrol.test.upcdn.net/ios/img/breakout_unc0ver_clear_002.png"
+    }
+  ],
+  "chimera": [
+    {
+      "id": 1,
+      "url": "http://app-cloudcontrol.test.upcdn.net/ios/img/breakout_unc0ver_clear_001.png"
+    },
+    {
+      "id": 2,
+      "url": "http://app-cloudcontrol.test.upcdn.net/ios/img/breakout_unc0ver_clear_002.png"
+    },
+    {
+      "id": 3,
+      "url": "http://app-cloudcontrol.test.upcdn.net/ios/img/breakout_chimera_001.png"
+    },
+    {
+      "id": 4,
+      "url": "http://app-cloudcontrol.test.upcdn.net/ios/img/breakout_chimera_002.png"
+    },
+    {
+      "id": 5,
+      "url": "http://app-cloudcontrol.test.upcdn.net/ios/img/breakout_chimera_003.png"
+    },
+    {
+      "id": 6,
+      "url": "http://app-cloudcontrol.test.upcdn.net/ios/img/breakout_chimera_004.png"
+    },
+    {
+      "id": 7,
+      "url": "http://app-cloudcontrol.test.upcdn.net/ios/img/breakout_chimera_005.png"
+    },
+    {
+      "id": 8,
+      "url": "http://app-cloudcontrol.test.upcdn.net/ios/img/breakout_chimera_006.png"
+    },
+    {
+      "id": 9,
+      "url": "http://app-cloudcontrol.test.upcdn.net/ios/img/breakout_chimera_007.png"
+    },
+    {
+      "id": 10,
+      "url": "http://app-cloudcontrol.test.upcdn.net/ios/img/breakout_chimera_008.png"
+    }
+  ]
+}
